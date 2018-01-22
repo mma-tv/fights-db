@@ -1,2 +1,3 @@
-# fights-db
-MMA-TV Fight Bot database
+# MMA-TV Fight Bot database
+
+This database is automatically updated on a daily basis.
